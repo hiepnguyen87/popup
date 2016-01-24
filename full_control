@@ -117,6 +117,6 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-		$("#myModal").html("<a href='http://giaiphapthuonghieu.vn/daotaoseo-dao-tao-seo-website-thuc-hanh-du-an-seo-thuc-te.html?utm_source=google&utm_medium=Kh%C3%B4ng%20ph%E1%BA%A3i%20tr%E1%BA%A3%20ti%E1%BB%81n&utm_campaign=ads_trackling&utm_term=seo&utm_content=seo' target='_blank'><img src='https://jgoogle.googlecode.com/svn/trunk/dao-tao-seo-chuyen-sau.jpg' width='500px'/>ÄĂ o táº¡o seo chuyĂªn sĂ¢u</a>. Há»c táº¡i nhĂ  Linh Nguyá»…n. <h2><a class='close-linhnguyen-modal'>X</a></h2>");$('#myModal').linhnguyen($('#myModal').data());
+		$("#myModal").html("<a href='https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=13&amp;cad=rja&amp;uact=8&amp;sqi=2&amp;ved=0ahUKEwj6y-HO98LKAhXYW44KHYRWAscQFghLMAw&amp;url=http%3A%2F%2Ftrangtri360.com%2Fxay-dung%2Fmat-dung-aluminium%2F&amp;usg=AFQjCNH8EJpWERNxfm3sw0c_dB1v0gg2qA&amp;sig2=lih9G0Vrpi93xPKUj66xDA&amp;bvm=bv.112454388,d.c2E' target='http://trangtri360.com/xay-dung/mat-dung-aluminium/'><img src='http://1.bp.blogspot.com/-r19bz1s4Tic/VqT5y91HNxI/AAAAAAAAC2I/8aqV_wiYioo/s1600/tieu%2Bde%2Bquang%2Bcao%2Bviet.png' width='500px'/>LÀM BẢNG QUẢNG CÁO</a>. UY TÍN - CHUYÊN NGHIỆP TẠI TPHCM. <h2><a class='close-linhnguyen-modal'>X</a></h2>");$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
